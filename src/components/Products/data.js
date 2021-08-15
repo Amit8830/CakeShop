@@ -34,6 +34,13 @@ import cup8 from '../../images/cup8.png';
 import menucard from '../../images/menucard.png';
 import menucard1 from '../../images/menucard1.png';
 import menucard2 from '../../images/menucard2.png';
+import bag from "../../images/bag.png"
+import bar from "../../images/bar.png"
+import smash from "../../images/samash.png"
+import name from "../../images/name.png"
+import walnut from "../../images/wal.png"
+import bro from "../../images/bro.png"
+
 
 
 
@@ -57,11 +64,47 @@ export const productData = [
      button: 'Order Now'
    },
   {
-   img: rasmalai,
+   img: bar,
     alt: 'Pizza',
-    name: 'Rasmalai Jar',
+    name: 'Chocolate Bar',
     button: 'Order Now'
   },
+  {
+    img: bag,
+     alt: 'Pizza',
+     name: 'Chocolate Bag',
+     button: 'Order Now'
+   },
+   {
+    img: bro,
+     alt: 'Pizza',
+     name: 'Chocolate Brownie',
+     button: 'Order Now'
+   },
+   {
+    img: name,
+     alt: 'Pizza',
+     name: 'Name Cake',
+     button: 'Order Now'
+   },
+   {
+    img: smash,
+     alt: 'Pizza',
+     name: 'Heart Shape Smash Cake',
+     button: 'Order Now'
+   },
+   {
+    img: walnut,
+     alt: 'Pizza',
+     name: 'Walnut Brownie',
+     button: 'Order Now'
+   },
+   {
+    img: rasmalai,
+     alt: 'Pizza',
+     name: 'Rasmalai Jar',
+     button: 'Order Now'
+   },
   {
     img: alljar,
     alt: 'Pizza',
